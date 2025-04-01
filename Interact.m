@@ -8,6 +8,7 @@ function Interact(Pos,evt)
 %   delete calls
 %   Tracer added to show mapping function
 %   R2024B Updated to use the New ROI moving events
+%   Requires Image Processing Toolbox
 %
 % -------------------------------------------------
 
